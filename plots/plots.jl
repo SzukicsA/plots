@@ -26,7 +26,7 @@ p2 |> draw
 # --------
 set_aog_theme!()
 update_theme!(fontsize = 40)
-f = Figure(resolution = (1600, 800))
+f = Figure(; size = (1600, 800))
 for i in 1:4
   draw!(f[i,1], p) 
 end
