@@ -1,0 +1,9 @@
+juliaa tutorial: 
+https://www.youtube.com/watch?v=Q4neeeetam8&list=PLhQ2JMBcfAsiu2BjeDuj0OXxD1Or_FjID
+
+
+Makie:
+https://docs.makie.org/stable/
+
+AlgebraOfGraphics:
+https://aog.makie.org/stable/
